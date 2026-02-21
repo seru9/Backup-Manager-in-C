@@ -1,4 +1,5 @@
 # Interactive Backup Manager 📁🔄
+<img width="497" height="436" alt="image" src="https://github.com/user-attachments/assets/9d4c675c-9c64-402f-97b0-8cb7cc3b907e" />
 
 A Linux-based system designed for managing interactive backups with real-time synchronization. The program automates the backup process, replacing time-consuming manual copying with a responsive, multi-processed background system.
 
