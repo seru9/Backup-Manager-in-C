@@ -1,6 +1,4 @@
 # Interactive Backup Manager 📁🔄
-<img width="497" height="436" alt="image" src="https://github.com/user-attachments/assets/9d4c675c-9c64-402f-97b0-8cb7cc3b907e" />
-
 A Linux-based system designed for managing interactive backups with real-time synchronization. The program automates the backup process, replacing time-consuming manual copying with a responsive, multi-processed background system.
 
 ## 🚀 Key Features
@@ -40,4 +38,6 @@ Upon startup, the program displays available commands and waits for user input. 
 * **Language**: C/C++ (Low-level resource and process management).
 
 ---
+<img width="497" height="436" alt="image" src="https://github.com/user-attachments/assets/9d4c675c-9c64-402f-97b0-8cb7cc3b907e" />
+
 *This project provides a high-performance, responsive solution for local data redundancy.*
